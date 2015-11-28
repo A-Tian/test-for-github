@@ -1,4 +1,4 @@
-# test-for-github
-A repository just for test and schoolwork
+This program just made to simple math.
+This program have 4 operation ,+,-,*,/.
 
-2015/11/28  first test,try commit.
+Create by Lin.
